@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-despedida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Dulce despedida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-despedida/) |
+| **Get License** | [Official Music Licensing for Dulce despedida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-despedida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Dulce despedida, pero vuelvo a tu piel
-> Bajo las estrellas, bailando sin red
-> Tus labios me llaman, no puedo fingir
-> Esta noche es nuestra, la voy a vivir
+> Subproject commit dd81624cbf1362d2a2b1ea5117404791c43d86dd
+> Dime si esta noche tú te vienes conmigo
+> Dejamos la ciudad atrás, sin un testigo
+> Baby, tú eres mi adicción, mi dulce castigo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce despedida
+
+This log tracks the cryptographic history and versioning for the song **Dulce despedida** (dulce-despedida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T00:08:50.377335 | `v1` | `cc0a56f2b797893ed5475726c74d259d6f07fbe8b118d3f8f6a4a0111195ff9b` | `5dee49727e753ee46f375d096de41383135beb8d3466de636807109871733002` | `2026-06-20_dulce-despedida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
